@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-micheli",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio site — no build step.",
+  "engines": {
+    "node": "22.x"
+  }
+}
