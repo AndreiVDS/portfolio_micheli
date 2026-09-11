@@ -5,6 +5,8 @@ education professional.
 
 **Live:** <https://portfolio-micheli-jy3m.vercel.app>
 
+![Screenshot](docs/screenshot.jpg)
+
 ## Sections
 
 - **Profile** — name, role, quick links.
