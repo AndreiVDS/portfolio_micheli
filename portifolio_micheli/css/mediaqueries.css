@@ -5,7 +5,8 @@
   }
 
   section {
-    margin: 0 20rem;
+    margin: 0 auto;
+    max-width: 1300px;
   }
 
   .nav-links {
@@ -67,7 +68,8 @@
   }
 
   section {
-    margin: 0 15rem;
+    margin: 0 auto;
+    max-width: 1200px;
   }
 
   .nav-links {
