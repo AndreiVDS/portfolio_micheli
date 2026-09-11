@@ -185,6 +185,13 @@
 
     .about-containers {
       margin-top: 0;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .about-containers .details-container {
+      width: 100%;
+      max-width: 520px;
     }
   }
 
